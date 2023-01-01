@@ -14,7 +14,7 @@ Week 1 Step 2 ⬤⬤◯◯ | 🕐 Estimated completion: 10-15 minutes
 - [ ] ***1:*** Read and explore the documentation for the [Cataas API](https://cataas.com/#/)
 - [ ] ***2:*** With Postman, specify the API Endpoint and set the parameters to send a GET request to the [CataaS API](https://cataas.com/#/) and receive a cat picture with "Serverless" written on it
 
-> 🚨 **NOTE:** If the CataaS API is not working, please use this alternate endpoint: https://bit-cat.azurewebsites.net/cat/says/serverless
+> **NOTE:** If the CataaS API is not working, please use this alternate endpoint: https://bit-cat.azurewebsites.net/cat/says/serverless
 
 ## 1: Exploring the CataaS API
 CATAAS is a RESTful API that exclusively delivers images of cats. The main feature is that we can change the properties of images, add text, truncate the image, add a filter and more. It's not an API with many real-world applications, but it's perfect for learning.
@@ -106,5 +106,7 @@ Click on "Params" and enter `color` into Key and the color you want (eg. blue) i
 
 
 **Click `Send` to get your cat picture**
-## 📹 Walkthrough Video
+
+## Walkthrough Video
+Please note that committing to GitHub will not be necessary.
 [![walkthrough video](https://img.youtube.com/vi/GJn-OHoKdTE/0.jpg)](https://www.youtube.com/watch?v=GJn-OHoKdTE)

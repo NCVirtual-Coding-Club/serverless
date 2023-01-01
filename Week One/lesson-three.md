@@ -12,9 +12,9 @@ Week 1 Step 3 ⬤⬤⬤◯ | 🕐 Estimated completion: 35-45 minutes
 
 > Managing a server is pretty complicated. As a student, mastering serverless functions can help you to build projects that solve real-world problems by integrating APIs, constructing user interfaces, and analysing data without worrying about managing servers.
 >
-> [⚡️ 10 Ways to Use Serverless Functions](https://dev.to/aws/10-ways-to-use-serverless-functions-bme)
+> [10 Ways to Use Serverless Functions](https://dev.to/aws/10-ways-to-use-serverless-functions-bme)
 
-## ✅  Tasks:
+## Tasks:
 - [ ] ***1:*** Create an Azure account
 - [ ] ***2:*** Set up Azure locally on VS Code
 - [ ] ***3:*** Create an HTTP trigger Azure function that gets content from a request parameter called `password` and returns it in the function's body
@@ -107,9 +107,9 @@ You would access a parameter by calling on the query like this:
 let color = req.query.color;
 ```
 
->💡 If the user makes a request with a parameter of `<url>?color=blue` then the variable color in your function will hold that value.
+> If the user makes a request with a parameter of `<url>?color=blue` then the variable color in your function will hold that value.
 
->💡 Note: your parameter must be named `password`
+> Note: your parameter must be named `password`
 
 
 Finally, we have to return *something* to the users. In this case, we will be returning the value of the request parameter we just retrieved.
@@ -145,4 +145,5 @@ Paste the *function url* directly in your browser and add the query parameters t
 Use **Postman**! Paste the *function url* and make a GET request. In the output box, you should receive the value you put in for the request parameter.
 
 ## Walkthrough Video
+Please note that committing to GitHub will not be necessary.
 [![walkthrough video](https://img.youtube.com/vi/zzipvT2htUU/0.jpg)](https://www.youtube.com/watch?v=zzipvT2htUU)

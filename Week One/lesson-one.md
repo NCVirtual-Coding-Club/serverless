@@ -118,6 +118,6 @@ If you run `node helloworld.js` in the terminal, the output should be `Hello Wor
 
 No worries, check [this out](https://github.com/bitprj/Intro-To-Serverless/blob/main/GETTING_STARTED.md#x-the-step-failed-what-do-i-do) to help resolve the issue.
 
-## 📹 Walkthrough Video
+## Walkthrough Video
 Please note that committing to GitHub will not be necessary.
 [![Alt text](https://img.youtube.com/vi/y9_lTjARWAg/0.jpg)](https://www.youtube.com/watch?v=y9_lTjARWAg)
