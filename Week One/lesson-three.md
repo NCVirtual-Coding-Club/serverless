@@ -8,9 +8,7 @@ toc: true
 ---
 # Week 1: Building our first function
 
-Week 1 Step 2 ⬤⬤⬤◯ | 🕐 Estimated completion: 35-45 minutes
-
-# Building our first function ⚡[HackerVoice]
+Week 1 Step 3 ⬤⬤⬤◯ | 🕐 Estimated completion: 35-45 minutes
 
 > Managing a server is pretty complicated. As a student, mastering serverless functions can help you to build projects that solve real-world problems by integrating APIs, constructing user interfaces, and analysing data without worrying about managing servers.
 >
