@@ -37,7 +37,7 @@ All of the Azure extensions allow you to work on your Azure Function App in VS C
 <img width="552" alt="Screen Shot 2021-01-10 at 1 53 40 PM" src="https://user-images.githubusercontent.com/70852990/104403466-93b28300-5526-11eb-8534-34e408a5d600.png">
 
 
-> 💡 Note: Dark Theme is our personal favorite, but feel free to choose whichever theme you like best. Go to [this site](https://code.visualstudio.com/docs/getstarted/themes) to view your options!
+> Note: Dark Theme is our personal favorite, but feel free to choose whichever theme you like best. Go to [this site](https://code.visualstudio.com/docs/getstarted/themes) to view your options!
 
 
 ## 2: Clone Files

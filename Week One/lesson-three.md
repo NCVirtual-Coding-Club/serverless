@@ -34,8 +34,8 @@ Azure is Microsoft's cloud computing platform (similar to Google Cloud Platform 
 
 1. Confirm if you have installed the Azure Tools extension on VS Code
 2. [Create your local project](https://docs.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-csharp#create-an-azure-functions-project)
-  - ‼️ When prompted to set the language, choose **JAVASCRIPT** not C#)
-  - ‼️ When prompted for the Authorization level, **always** choose `Function`
+  - When prompted to set the language, choose **JAVASCRIPT** not C#)
+  - When prompted for the Authorization level, **always** choose `Function`
 4. [Run the function locally](https://docs.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-csharp#run-the-function-locally)
 5. [Publish the project to Azure](https://docs.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-csharp#publish-the-project-to-azure)
 6. Get your function url the Azure Portal

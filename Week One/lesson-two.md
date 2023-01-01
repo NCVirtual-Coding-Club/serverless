@@ -20,7 +20,7 @@ Week 1 Step 2 ⬤⬤◯◯ | 🕐 Estimated completion: 10-15 minutes
 CATAAS is a RESTful API that exclusively delivers images of cats. The main feature is that we can change the properties of images, add text, truncate the image, add a filter and more. It's not an API with many real-world applications, but it's perfect for learning.
 
 
-⭐ Interested in playing around with the API? Documentation is [here](https://cataas.com/#/).
+Interested in playing around with the API? Documentation is [here](https://cataas.com/#/).
 
 ### How does the cloud work?
 
@@ -36,13 +36,13 @@ Clients communicate with servers with through `HTTP requests`. For example, when
 
 Below are some of the most common HTTP requests. Read through each one, and try to get familiar with their functions!
 
-**⭐ Get Request**: gets data from a server (hence the name). The data we want is specified using a URL we call a Request URL. In this case, you will use a Get Request URL from the Catass API to receive a cat picture.
+**Get Request**: gets data from a server (hence the name). The data we want is specified using a URL we call a Request URL. In this case, you will use a Get Request URL from the Catass API to receive a cat picture.
 
-**⭐ Post Request**: used to send data to a server, to create or update a resource. The information submitted to the server is archived in the request body of the HTTP request. This is often used to send user-generated data to a server. An example could be uploading a picture to a Post URL.
+**Post Request**: used to send data to a server, to create or update a resource. The information submitted to the server is archived in the request body of the HTTP request. This is often used to send user-generated data to a server. An example could be uploading a picture to a Post URL.
 
-**⭐ Put Request**: similar to a Post Request, but a put request will always have the same result every time you use one, whereas a post request might not. We call this property "idempotency."
+**Put Request**: similar to a Post Request, but a put request will always have the same result every time you use one, whereas a post request might not. We call this property "idempotency."
 
-**⭐ Delete Request**: used to delete resources indicated by the URL and will remove the targeted resources.
+**Delete Request**: used to delete resources indicated by the URL and will remove the targeted resources.
 
 
 ### What are APIs, and what makes one "RESTful?"
