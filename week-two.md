@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Week 2
+title: Week 2 (coming soon)
 has_children: false
 nav_order: 3
 ---
