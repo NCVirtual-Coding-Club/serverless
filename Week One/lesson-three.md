@@ -139,12 +139,12 @@ To return the password in body, simply replace `responseMessage` with `password`
 3. Add a parameter with the key `password` and give it any random value
 4. Make sure that your function is returning the `password` parameter in the body
 
-## 🚧 Test your Work
+## Test your Work
 **Option 1:**
 Paste the *function url* directly in your browser and add the query parameters to the end of the url: `&param_name=param_value`. Your inputted password value should appear.
 
 **Option 2:**
 Use **Postman**! Paste the *function url* and make a GET request. In the output box, you should receive the value you put in for the request parameter.
 
-## 📹 Walkthrough Video
+## Walkthrough Video
 [![walkthrough video](https://img.youtube.com/vi/zzipvT2htUU/0.jpg)](https://www.youtube.com/watch?v=zzipvT2htUU)
